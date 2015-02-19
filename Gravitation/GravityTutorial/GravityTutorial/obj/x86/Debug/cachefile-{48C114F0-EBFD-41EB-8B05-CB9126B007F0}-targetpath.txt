@@ -1,0 +1,7 @@
+Content\Frank.xnb
+Content\Platform.xnb
+Content\Effect.xnb
+Content\Song.xnb
+Content\Song.wma
+Content\ImperialMarch.xnb
+Content\ImperialMarch.wma

@@ -1,0 +1,2 @@
+C:\Users\oyyou\Documents\Visual Studio 2010\Projects\GravityTutorial\GravityTutorialContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Visual Studio 2013\Projects\Gravitation\GravityTutorial\GravityTutorialContent\obj\x86\Debug\GravityTutorialContent.contentprojResolveAssemblyReference.cache
